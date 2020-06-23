@@ -1,0 +1,12 @@
+{
+    "name": "kaitoj/terms-gen",
+    "description": "Laravel EU GDPR complient cookie, privacy nd terms generator with cookie consent",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kaito Jacobson",
+            "email": "kaito.jacobson@gmail.com"
+        }
+    ],
+    "require": {}
+}
